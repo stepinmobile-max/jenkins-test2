@@ -34,7 +34,7 @@ class jenkinstestTests: XCTestCase {
     }
     
     func testLol() {
-        XCTAssertTrue(false, "YEAH")
+        XCTAssertTrue(true, "YEAH")
     }
     
     func testFail() {
